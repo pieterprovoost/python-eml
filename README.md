@@ -2,6 +2,12 @@
 
 This Python package contains dataclasses generated using [xsdata](https://xsdata.readthedocs.io/) for the [Ecological Metadata Language (EML)](https://eml.ecoinformatics.org/) standard as well its GBIF profile.
 
+## Installation
+
+```
+pip install python-eml
+```
+
 ## Quick start
 
 ```python
