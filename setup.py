@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 long_description = open("README.md").read()
 
 
-setup(name="eml",
+setup(name="python-eml",
       version="0.0.1",
       author="Pieter Provoost",
       author_email="pieterprovoost@gmail.com",
