@@ -1,0 +1,2 @@
+setuptools==62.5.0
+xsdata==22.7
