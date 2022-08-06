@@ -6,5 +6,6 @@ __pycache__
 *.pyc
 dist
 eml.egg-info
+python_eml.egg-info
 build
 

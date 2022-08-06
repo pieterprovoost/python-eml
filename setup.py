@@ -5,7 +5,7 @@ long_description = open("README.md").read()
 
 
 setup(name="python-eml",
-      version="0.0.1",
+      version="0.0.2",
       author="Pieter Provoost",
       author_email="pieterprovoost@gmail.com",
       description="Python package containing dataclasses for the Ecological Metadata Language (EML) standard",
